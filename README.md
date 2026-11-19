@@ -1,4 +1,4 @@
-# Y700 无极 (TB324ZC) Droidspaces GKI 内核
+# Y700 无极 (TB324ZC) Droidspaces GKI 内核 （针对原项目没覆盖的.165版zuXOS的重新打包版， GKI build扔需为14494108）
 
 为 Lenovo Legion Y700 无极（TB324ZC，Snapdragon SM8850 `canoe`）重新编译原厂所用的 Google GKI 内核，补上 [Droidspaces](https://github.com/ravindu644/Droidspaces-OSS) 需要的容器能力，同时保持与原厂 527 个厂商 / system_dlkm 模块的 KMI 兼容。
 
